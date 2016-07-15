@@ -1,0 +1,6 @@
+*.png
+*.obj
+*.mp4
+*.mov
+
+.DS_Store
