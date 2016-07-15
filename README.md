@@ -1,4 +1,4 @@
-# SPH-based fluid simualtor
+# SPH-based fluid simulator
 
 Müller et al., Particle-Based Fluid Simulation for Interactive Applications (SCA 2003)
 
